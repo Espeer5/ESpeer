@@ -94,3 +94,12 @@ canvas {
     border-left: 0px solid white;
     border-right: 0px solid white;
 }
+
+#homeinfo{
+  position: absolute;
+  top: 130px;
+  color: #fdfffc;
+  font-size: 25px;
+  font-weight: normal;
+  padding: 15px;
+}
