@@ -1,0 +1,113 @@
+* { margin:0; padding:0; font-family:Geneva, Tahoma, sans-serif;}
+
+h3 {
+  font-size: 12px;
+  padding: 5px;
+  left: 40px;
+}
+
+h2 {
+  font-size: 15px;
+  padding-top: 5px;
+}
+
+a {
+  color: rgb(186, 204, 196);
+  padding-right: 40px;
+  text-decoration: none;
+}
+
+p {
+  padding-top: 10px;
+  font-size: 16px;
+}
+
+embed {
+  position: absolute;
+}
+
+#title {
+  position: absolute;
+  left: 5%;
+  top: 60px;
+}
+
+#top_bar {
+  background-color: black;
+  color: white;
+  width: 95%;
+  height: 175px;
+  margin: 0px;
+  padding: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+#top_accent {
+  position: absolute;
+  background-color: rgb(186, 204, 196);
+  height: 175px;
+  width: 9%;
+  right: 0px;
+  top: 30px;
+}
+
+#pages {
+  position: absolute;
+  left: 32%;
+  top: 50%;
+}
+
+#contact {
+  position: absolute;
+  left: 70%;
+  top: 25%;
+  width: 230px;
+  height: 90px;
+  border-color:black;
+  border-top-color: rgb(186, 204, 196);
+  border-bottom-color:rgb(186, 204, 196);
+  border-style: solid;
+}
+
+#icons {
+  position: absolute;
+  padding-top: 7px;
+  width: 10px;
+}
+
+#info {
+  position: absolute;
+  padding-top: 5px;
+  left: 19px;
+}
+
+#pin {
+  position: absolute;
+  top: 9px;
+}
+
+#phone {
+  position: absolute;
+  top: 37px;
+}
+
+#mail {
+  position: absolute;
+  top: 63px;
+}
+
+#right_bar {
+  position: absolute;
+  height: 500px;
+  top: 400px;
+  width: 60%;
+  right:0px;
+}
+
+#CPU1 {
+  position: absolute;
+  right: 0px;
+  height: auto;
+  width:30%
+}

@@ -1,0 +1,19 @@
+#D_Resume {
+  position: absolute;
+  top: 210px;
+  color: rgb(60, 141, 104);
+  left: 5%;
+}
+
+#res {
+  border-width: 5px;
+  border-style: groove;
+  width: 100%;
+}
+
+#res_holder {
+  position: absolute;
+  top: 250px;
+  left: 20%;
+  width: 60%;
+}

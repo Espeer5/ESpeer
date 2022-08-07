@@ -1,0 +1,37 @@
+#me {
+  position: absolute;
+  height: 400px;
+  padding: 10px;
+  left: 70px;
+  top: 280px;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#me_accent {
+  position: absolute;
+  width: 385px;
+  background-color: rgb(186, 204, 196);
+  height: 270px;
+  top: 360px;
+  left: 55px;
+}
+
+#sig {
+  position: absolute;
+  width: 210px;
+  top: 640px;
+  left: 630px;
+}
+
+#greet {
+  position: absolute;
+  top: 320px;
+  left: 530px;
+  padding: 10px;
+  width: 500px;
+}
+
+#hi {
+  font-size: larger;
+}
