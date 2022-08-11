@@ -4,3 +4,12 @@
   padding: 40px;
   left: 40px;
 }
+
+.art_title {
+  margin: 5px;
+}
+
+.article_sub {
+  margin: 5px;
+  font-weight: lighter;
+}
