@@ -41,6 +41,7 @@ embed {
   padding: 0px;
   top: 0px;
   position: absolute;
+  min-width: 800px;
 }
 
 #top_accent {
@@ -54,7 +55,7 @@ embed {
 
 #pages {
   position: absolute;
-  left: 32%;
+  left: 40%;
   top: 50%;
 }
 
