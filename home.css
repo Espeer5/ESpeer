@@ -1,23 +1,32 @@
 #main {
   position: absolute;
   margin: 70px;
-  top: 210px;
-  width: 80%;
+  top: 120px;
+  width: 75%;
   height: 400px;
+}
+
+th {
+  width: 50%;
+  font-size: small;
+  font-weight:lighter;
 }
 
 #me {
   height: auto;
   width: 90%;
+  margin-right: 30px;
 }
 
 
 #sig {
-  width: 70%;
-  padding: 10px;
+  width: 40%;
+  padding-top: 10px;
+  margin-right: 60%;
 }
 
 #greet {
+  text-align: left;
   padding: 5px;
   width: 100%;
 }
@@ -25,3 +34,4 @@
 #hi {
   font-size: larger;
 }
+
