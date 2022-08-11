@@ -1,35 +1,32 @@
-#me {
+#main {
   position: absolute;
+  margin: 70px;
+  top: 210px;
+  width: 80%;
   height: 400px;
-  padding: 10px;
-  left: 70px;
-  top: 280px;
+
+#me {
+  height: 100%;
+  width: auto;
   border-width: 5px;
   border-style: solid;
 }
 
 #me_accent {
-  position: absolute;
-  width: 385px;
+  width: 100%;
   background-color: rgb(186, 204, 196);
-  height: 270px;
-  top: 360px;
-  left: 55px;
+  height: 33%;
+  top: 33%px;
 }
 
 #sig {
-  position: absolute;
-  width: 210px;
-  top: 640px;
-  left: 630px;
+  width: 70%;
+  padding: 10px;
 }
 
 #greet {
-  position: absolute;
-  top: 320px;
-  left: 530px;
-  padding: 10px;
-  width: 500px;
+  padding: 5px;
+  width: 100%;
 }
 
 #hi {
