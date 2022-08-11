@@ -13,3 +13,10 @@
   margin: 5px;
   font-weight: lighter;
 }
+
+.art_head {
+  position: absolute;
+  width: 60%;
+  margin: 5px;
+  height: auto;
+}
