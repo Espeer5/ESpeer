@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Edward Speer</title>
+  <link href="basic.css" rel=stylesheet type="text/css" />
+</head>
+
+<body>
+  <div id="top_accent"></div>
+  <div id="top_bar">
+    <div id="title">
+      <h1>Edward Speer</h1>
+      <h2> Undergraduate Student at Caltech</h2>
+    </div>
+    <div id="pages">
+      <a href="home.html"> Home</a>
+      <a href="resume.html"> Resume</a>
+    </div>
+    <div id="contact">
+      <div id="icons">
+        <img id="pin" src = Picture1.svg>
+        <img id="phone" src = Picture2.svg>
+        <img id="mail" src = Picture3.svg>
+      </div>
+      <div id="info">
+        <h3>Pasadena CA</h3>
+        <h3>(512)375-5674</h3>
+        <h3>espeer@caltech.edu</h3>
+      </div>
+    </div>
+  </div>
+  <div id="right_bar">
+    <img id="CPU1" src="CPU1.png">
+  </div>
+  <div class="article">
+    <h1 class="art_title">Article Title</h1>
+    <h2 class='article_sub">Subtitle</h2>
+    <p>here is the article</p>
+  </div>
+
+</body>
