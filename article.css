@@ -1,6 +1,6 @@
 .article {
   position: absolute;
-  top: 200px;
+  top: 170px;
   padding: 40px;
   left: 40px;
 }
@@ -15,8 +15,7 @@
 }
 
 .art_head {
-  position: absolute;
-  width: 60%;
+  width: 80%;
   margin: 5px;
   height: auto;
 }
