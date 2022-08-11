@@ -7,8 +7,8 @@
 }
 
 #me {
-  height: 100%;
-  width: auto;
+  height: auto;
+  width: 80%;
   border-width: 5px;
   border-style: solid;
 }
