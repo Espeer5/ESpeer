@@ -109,10 +109,10 @@ embed {
 }
 
 #right_bar {
-  position: absolute;
+  position: fixed;
   height: 500px;
   top: 400px;
-  width: 60%;
+  width: 900px;
   right:0px;
 }
 
