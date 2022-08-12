@@ -52,16 +52,6 @@ embed {
   top:150px;
 }
 
-@media only screen and (min-width: 816px) {
-  #top_accent {
-    position: absolute;
-    background-color: rgb(186, 204, 196);
-    height: 175px;
-    width: 9%;
-    right: 0px;
-    top: 30px;
-  }
-}
 
 #pages {
   position: absolute;
@@ -111,7 +101,7 @@ embed {
 #right_bar {
   position: fixed;
   height: 500px;
-  top: 400px;
+  top: 70%;
   width: 900px;
   right:0px;
 }
@@ -128,5 +118,15 @@ embed {
     height: auto;
     width:30%
   }
+
+  #top_accent {
+    position: absolute;
+    background-color: rgb(186, 204, 196);
+    height: 175px;
+    width: 9%;
+    right: 0px;
+    top: 30px;
+  }
+
 }
 

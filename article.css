@@ -10,12 +10,18 @@
 }
 
 .article_sub {
-  margin: 5px;
-  font-weight: lighter;
+  font-size: large;
+  margin: 10px;
+  width: 80%;
 }
 
 .art_head {
   width: 80%;
   margin: 5px;
   height: auto;
+}
+
+.art_text {
+  text-indent: 50px;
+  width: 80%;
 }
