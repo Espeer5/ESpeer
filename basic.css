@@ -27,7 +27,7 @@ embed {
 }
 
 #title {
-  position: fixed;
+  position: absolute;
   left: 5%;
   top: 60px;
 }
@@ -40,27 +40,27 @@ embed {
   margin: 0px;
   padding: 0px;
   top: 0px;
-  position: fixed;
-  min-width: 800px;
+  position: absolute;
+  min-width: 1000px;
 }
 
 #top_accent {
-  position: fixed;
+  position: absolute;
   background-color: rgb(186, 204, 196);
   height: 50px;
-  width: 800px;
+  width: 1000px;
   top:150px;
 }
 
-
 #pages {
-  position: fixed;
-  left: 40%;
+  position: absolute;
+  left: 360px;
   top: 85px;
 }
 
+
 #contact {
-  position: fixed;
+  position: absolute;
   left: 70%;
   top: 40px;
   width: 230px;
@@ -72,30 +72,29 @@ embed {
 }
 
 #icons {
-  position: fixed;
-  top: 50px;
+  position: absolute;
   width: 10px;
 }
 
 #info {
-  position: fixed;
+  position: absolute;
   padding-top: 5px;
-  left: 72%;
+  left: 10%;
 }
 
 #pin {
-  position: fixed;
-  top: 50px;
+  position: absolute;
+  top: 10px;
 }
 
 #phone {
-  position: fixed;
-  top: 80px;
+  position: absolute;
+  top: 38px;
 }
 
 #mail {
-  position: fixed;
-  top: 105px;
+  position: absolute;
+  top: 63px;
 }
 
 #right_bar {
@@ -109,7 +108,16 @@ embed {
   visibility: hidden;
 }
 
-@media only screen and (min-width: 816px) {
+@media only screen and (min-width: 1000px) {
+
+  #title {
+    position: fixed;
+  }
+
+  #top_bar {
+    position: fixed;
+  }
+
   #CPU1 {
     visibility: visible;
     position: fixed;
@@ -125,6 +133,52 @@ embed {
     width: 9%;
     right: 0px;
     top: 30px;
+  }
+
+  #pages {
+    position: fixed;
+    left: 40%;
+    top: 85px;
+    min-width: 500px;
+  }
+
+  #contact {
+    position: fixed;
+    left: 70%;
+    top: 40px;
+    width: 230px;
+    height: 90px;
+    border-color:black;
+    border-top-color: rgb(186, 204, 196);
+    border-bottom-color:rgb(186, 204, 196);
+    border-style: solid;
+  }
+  
+  #icons {
+    position: fixed;
+    top: 50px;
+    width: 10px;
+  }
+  
+  #info {
+    position: fixed;
+    padding-top: 5px;
+    left: 72%;
+  }
+  
+  #pin {
+    position: fixed;
+    top: 50px;
+  }
+  
+  #phone {
+    position: fixed;
+    top: 80px;
+  }
+  
+  #mail {
+    position: fixed;
+    top: 105px;
   }
 
 }
