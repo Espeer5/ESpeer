@@ -23,11 +23,11 @@ p {
 }
 
 embed {
-  position: absolute;
+  position: fixed;
 }
 
 #title {
-  position: absolute;
+  position: fixed;
   left: 5%;
   top: 60px;
 }
@@ -40,12 +40,12 @@ embed {
   margin: 0px;
   padding: 0px;
   top: 0px;
-  position: absolute;
+  position: fixed;
   min-width: 800px;
 }
 
 #top_accent {
-  position: absolute;
+  position: fixed;
   background-color: rgb(186, 204, 196);
   height: 50px;
   width: 800px;
@@ -54,15 +54,15 @@ embed {
 
 
 #pages {
-  position: absolute;
+  position: fixed;
   left: 40%;
-  top: 50%;
+  top: 85px;
 }
 
 #contact {
-  position: absolute;
+  position: fixed;
   left: 70%;
-  top: 25%;
+  top: 40px;
   width: 230px;
   height: 90px;
   border-color:black;
@@ -72,37 +72,36 @@ embed {
 }
 
 #icons {
-  position: absolute;
-  padding-top: 7px;
+  position: fixed;
+  top: 50px;
   width: 10px;
 }
 
 #info {
-  position: absolute;
+  position: fixed;
   padding-top: 5px;
-  left: 19px;
+  left: 72%;
 }
 
 #pin {
-  position: absolute;
-  top: 9px;
+  position: fixed;
+  top: 50px;
 }
 
 #phone {
-  position: absolute;
-  top: 37px;
+  position: fixed;
+  top: 80px;
 }
 
 #mail {
-  position: absolute;
-  top: 63px;
+  position: fixed;
+  top: 105px;
 }
 
 #right_bar {
   position: fixed;
   height: 500px;
   top: 70%;
-  width: 900px;
   right:0px;
 }
 
@@ -113,14 +112,14 @@ embed {
 @media only screen and (min-width: 816px) {
   #CPU1 {
     visibility: visible;
-    position: absolute;
+    position: fixed;
     right: 0px;
     height: auto;
     width:30%
   }
 
   #top_accent {
-    position: absolute;
+    position: fixed;
     background-color: rgb(186, 204, 196);
     height: 175px;
     width: 9%;

@@ -23,9 +23,10 @@ th {
   margin-bottom: 0px;
   width: 80%;
   margin-top: 5px;
-  border-style: solid;
-  border-width: 2px;
+  border-style: outset;
+  border-width: 7px;
   border-top-width: 0px;
+  border-color:rgb(186, 204, 196);
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -45,9 +46,9 @@ th {
   margin-right: 10%;
   margin-bottom: -10px;
   width: 80%;
-  border-style: solid;
-  border-width: 2px;
+  border-style: outset;
+  border-width: 7px;
   border-bottom-width: 0px;
-  border-color: black;
+  border-color: rgb(186, 204, 196);
   padding: 0px;
 }
