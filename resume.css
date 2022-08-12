@@ -1,8 +1,9 @@
 #D_Resume {
-  position: absolute;
+  position: fixed;
   top: 210px;
   color: rgb(60, 141, 104);
   left: 5%;
+  font-size: 1vw;
 }
 
 #res {
