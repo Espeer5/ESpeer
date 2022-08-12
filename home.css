@@ -35,3 +35,26 @@ th {
 #hi {
   font-size: larger;
 }
+
+#mobile {
+  visibility: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+  #main {
+    display: none;
+    width: 0%;
+  }
+
+  #mobile {
+    position: absolute;
+    visibility: visible;
+    top: 30%;
+    width: 90%;
+    left: 5%;
+  }
+
+  #me {
+    margin: 0px;
+  }
+}
