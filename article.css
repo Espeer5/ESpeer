@@ -25,3 +25,34 @@
   text-indent: 50px;
   width: 80%;
 }
+
+@media only screen and (max-width: 600px) {
+  .article {
+    width: 99%;
+    top: 30%;
+    left: 0px;
+    padding: .5%;
+  }
+
+  .art_title {
+    width: 99%;
+    margin: .5%;
+  }
+
+  .article_sub {
+    width: 99%;
+    margin: .5%;
+  }
+
+  .art_head {
+    width: 98%;
+    margin: .5%;
+  }
+
+  .art_text {
+    width: 99%;
+    margin: .5%;
+  }
+
+  
+}

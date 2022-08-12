@@ -52,3 +52,22 @@ th {
   border-color: rgb(186, 204, 196);
   padding: 0px;
 }
+
+#mobile_tab {
+  visibility: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+
+  #links_tab {
+    visibility: hidden;
+  }
+
+  #mobile_tab {
+    position: absolute;
+    visibility: visible;
+    top: 30%;
+    width: 70%;
+    margin-left: 15%;
+  }
+}
