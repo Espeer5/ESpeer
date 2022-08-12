@@ -10,3 +10,4 @@ This website will host an introduction to me, my resume, some blog content, and 
 4) Add AdSense to potentially monetize
 5) Add metadata
 6) Add more articles
+7) Fix link_tab mobile width
