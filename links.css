@@ -60,7 +60,9 @@ th {
 @media only screen and (max-width: 600px) {
 
   #links_tab {
+    display: none;
     visibility: hidden;
+    width: 0px;
   }
 
   #mobile_tab {
