@@ -38,6 +38,7 @@ th {
 
 #mobile {
   visibility: hidden;
+  display: none;
   width: 0%;
   height: 0%;
 }
@@ -54,6 +55,7 @@ th {
     top: 30%;
     width: 90%;
     left: 5%;
+    display:block;
   }
 
   #me {
