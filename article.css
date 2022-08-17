@@ -29,6 +29,11 @@
   margin-bottom: 30px;
 }
 
+.cite_img {
+  text-size: 7px;
+  margin-left: 40%;
+}
+
 @media only screen and (max-width: 600px) {
   .article {
     width: 99%;
