@@ -8,5 +8,4 @@ This website will host an introduction to me, my resume, some blog content, and 
 2) Add LinkedIn link
 3) Purchase domain and set up DNS for hosting
 4) Add AdSense to potentially monetize
-5) Add metadata
-6) Add more articles
+5) Add more articles
