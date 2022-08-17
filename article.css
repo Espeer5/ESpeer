@@ -24,6 +24,7 @@
 .art_text {
   text-indent: 50px;
   width: 80%;
+  left: 30px;
 }
 
 @media only screen and (max-width: 600px) {
