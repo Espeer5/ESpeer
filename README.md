@@ -9,3 +9,4 @@ This website will host an introduction to me, my resume, some blog content, and 
 3) Purchase domain and set up DNS for hosting
 4) Add AdSense to potentially monetize
 5) Add more articles
+6) Edit Favicon to be theme accent color for visibility on dark mode browsers
