@@ -5,6 +5,9 @@ h3 {
   padding: 5px;
   left: 40px;
 }
+body {
+    background-color: rgb(48, 55, 52);
+}
 
 h2 {
   font-size: 15px;
@@ -35,7 +38,7 @@ embed {
 #top_bar {
   background-color: black;
   color: white;
-  width: 95%;
+  width: 100%;
   height: 175px;
   margin: 0px;
   padding: 0px;
@@ -45,16 +48,16 @@ embed {
 }
 
 #top_accent {
-  position: absolute;
+  position: fixed;
   background-color: rgb(186, 204, 196);
-  height: 50px;
-  width: 1000px;
+  height: 40px;
+  width: 100%;
   top:150px;
 }
 
 #pages {
   position: absolute;
-  left: 360px;
+  left: 370px;
   top: 85px;
 }
 
@@ -126,25 +129,17 @@ embed {
     width:30%
   }
 
-  #top_accent {
-    position: fixed;
-    background-color: rgb(186, 204, 196);
-    height: 175px;
-    width: 9%;
-    right: 0px;
-    top: 30px;
-  }
 
   #pages {
     position: fixed;
-    left: 40%;
+    left: 45%;
     top: 85px;
     min-width: 500px;
   }
 
   #contact {
     position: fixed;
-    left: 70%;
+    left: 85%;
     top: 40px;
     width: 230px;
     height: 90px;
@@ -163,7 +158,7 @@ embed {
   #info {
     position: fixed;
     padding-top: 5px;
-    left: 72%;
+    left: 87%;
   }
   
   #pin {
