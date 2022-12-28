@@ -5,7 +5,7 @@
   width: 65%;
   left: 17.5%;
   height: 75%;
-  min-width: 600px;
+  min-width: 1000px;
   top: 0px;
 }
 
@@ -68,6 +68,11 @@ th {
   height: 0%;
 }
 
+#mob_class {
+  visibility: hidden;
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   #main {
     display: none;
@@ -83,13 +88,30 @@ th {
     display:block;
   }
 
-  #me {
-    margin: 0px;
+  #str {
+    top: 250px;
   }
 
-  #sig {
-    width: 50%;
-    margin-left: 25%;
-    padding-bottom: 40px;
+  #str2 {
+    top: 270px;
+  }
+
+  #me_frame {
+    margin: 0px;
+    position: absolute;
+    top: 320px;
+  }
+
+  #class {
+    visibility: hidden;
+    display: none;
+  }
+
+  #mob_class {
+    display: block;
+    visibility: visible;
+    position: absolute;
+    top: 800px;
+    left: 20px;
   }
 }

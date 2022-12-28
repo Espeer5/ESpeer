@@ -43,7 +43,7 @@ embed {
   margin: 0px;
   padding: 0px;
   top: 0px;
-  position: absolute;
+  position: fixed;
   min-width: 1000px;
 }
 
