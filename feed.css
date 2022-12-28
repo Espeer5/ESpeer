@@ -1,0 +1,12 @@
+#feed {
+    left: 32%;
+    position: absolute;
+    top: 200px;
+    width: 40%;
+}
+
+#li {
+    position: fixed;
+    top: 200px;
+    left: 5%;
+}
