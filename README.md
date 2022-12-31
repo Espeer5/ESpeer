@@ -1,5 +1,4 @@
-# espeer.net
-Developing a Github Pages project to build a professional website
+# Developing a Github Pages project to build a professional website
 
 This website will host an introduction to me, my resume, some blog content, and some projects.
 
