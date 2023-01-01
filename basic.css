@@ -183,6 +183,7 @@ embed {
 
   #top_bar {
     width: 100%;
+    font-size: smaller;
     height: 20%;
     text-align: center;
     min-width: 0px;
